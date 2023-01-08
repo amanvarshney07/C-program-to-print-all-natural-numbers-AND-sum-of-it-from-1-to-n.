@@ -1,0 +1,1 @@
+# C-program-to-print-all-natural-numbers-AND-sum-of-it-from-1-to-n.
